@@ -1,0 +1,17 @@
+環境構築
+https://github.com/yoyoyo-yo/Gasyori100knock/tree/master/Tutorial
+
+1. Minicondaをインストール
+2. Anaconda prompt(Miniconda)の端末を起動
+3. 以下コマンド
+$ conda create python=3.6 -n gasyori100
+$ conda activate gasyori100
+$ pip install numpy matplotlib opencv-python
+$ pip install jupyter notebook
+
+
+毎回の起動時
+1. Anaconda prompt(Miniconda)の端末を起動
+2. conda activate gasyori100
+3. jupyter notebook
+で起動する
